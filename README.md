@@ -11,7 +11,7 @@ allprojects {
 2. dependency
 ```
 dependencies {
-	compile 'com.github.jianjin33:DrawerMenu:v1.0.0'
+	compile 'com.github.jianjin33:DrawerMenu:-SNAPSHOT'
 }
 ```
 #### 使用
